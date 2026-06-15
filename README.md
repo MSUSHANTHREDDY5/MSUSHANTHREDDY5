@@ -18,11 +18,6 @@
 - Python
 - Git & GitHub
 
-🎯 Goals:
-- Crack top MNC interviews
-- Solve 500+ DSA problems
-- Build impactful projects
-- Become a skilled Software Engineer
 
 ---
 
