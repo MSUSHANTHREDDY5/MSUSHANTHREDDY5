@@ -27,13 +27,7 @@
 
 ---
 
-# 🖥️ Coding Animation
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="700"/>
-</p>
-
----
 
 # 🛠️ Tech Stack
 
@@ -67,34 +61,31 @@ Seat prediction and admission analytics using MERN
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MSUSHANTHREDDY5&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSUSHANTHREDDY5&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <a href="https://github.com/MSUSHANTHREDDY5">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MSUSHANTHREDDY5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+  </a>
+  <a href="https://github.com/MSUSHANTHREDDY5">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSUSHANTHREDDY5&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  </a>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=MSUSHANTHREDDY5&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=MSUSHANTHREDDY5&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MSUSHANTHREDDY5&theme=tokyo-night"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MSUSHANTHREDDY5&theme=tokyo-night"/>
 </p>
 
 ---
