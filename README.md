@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Aspiring Software Engineer | 💻 DSA Learner | 🎓 Engineering Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&center=true&vCenter=true&width=700&lines=Learning+Data+Structures+and+Algorithms;Building+Projects+with+C%2B%2B+and+Python;Future+Software+Engineer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&center=true&vCenter=true&width=700&lines=Learning+Data+Structures+and+Algorithms;Building+Projects+with+MERN STACK;Future+Software+Engineer;Always+Learning+New+Things" />
 </p>
 
 ---
