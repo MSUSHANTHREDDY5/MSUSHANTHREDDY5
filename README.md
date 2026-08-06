@@ -68,13 +68,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MSUSHANTHREDDY5&theme=tokyo-night"/>
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MSUSHANTHREDDY5&theme=tokyonight&row=1&column=6"/>
-</p>
 
 ---
 
@@ -95,14 +88,14 @@
 - Competitive Programming
 - Problem Solving
 - Open Source Contributions
-
+- Flutter
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: your-email@example.com
+📧 Email:sushanthreddy2007@gmail.com
 
-💼 LinkedIn: Add your LinkedIn profile link
+💼 LinkedIn: www.linkedin.com/in/sushanth-reddy-m
 
 ---
 
